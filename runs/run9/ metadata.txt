@@ -1,0 +1,20 @@
+Additional information: Test two species with nearly constant trajectories with little noise
+Version: 1.3
+Number of Species = 2
+Total time = 5
+Time step = 0.05
+Number of time points = 100
+Growth Rate seed = NA
+Initial Abundances seed = NA
+Growth Rates = 0.43 0.3
+Initial Abundances = 0.15 0.005
+Interaction Matrix = 
+     [,1] [,2]
+[1,]   -3    1
+[2,]   -1   -3
+var_a = 10
+var_b = 10
+var_w = 1
+Number of iterations = 2000
+Number of chains = 4
+Distance between true and inferred interaction matrices = 3.056311
