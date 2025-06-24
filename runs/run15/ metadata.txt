@@ -1,0 +1,21 @@
+Additional information: Add inverse gamma hyperpriors
+Version: 1.4
+Number of Species = 3
+Total time = 5
+Time step = 0.05
+Number of time points = 400
+Growth Rate seed = 1002
+Initial Abundances seed = 1004
+Growth Rates = 0.4450063 0.7906519 0.6120356
+Initial Abundances = 0.2716465 0.2459657 0.7786462
+Interaction Matrix = 
+     [,1] [,2] [,3]
+[1,]   -3    1    1
+[2,]   -2   -3    2
+[3,]    2   -1   -3
+nu_a = 0.1
+nu_b = 0.1
+nu_w = 0.01
+Number of iterations = 2000
+Number of chains = 4
+Distance between true and inferred interaction matrices = 0.5965076
