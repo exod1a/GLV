@@ -1,0 +1,20 @@
+Additional information: Uninformative priors with large variance
+Version: 1.3
+Number of Species = 2
+Total time = 5
+Time step = 0.05
+Number of time points = 100
+Growth Rate seed = 31
+Initial Abundances seed = 55
+Growth Rates = 0.5221579 0.9499578
+Initial Abundances = 0.5478135 0.2181597
+Interaction Matrix = 
+     [,1] [,2]
+[1,]   -3    1
+[2,]   -1   -3
+var_a = 100
+var_b = 100
+var_w = 1
+Number of iterations = 2000
+Number of chains = 4
+Distance between true and inferred interaction matrices = 3.303714
